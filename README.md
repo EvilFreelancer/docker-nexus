@@ -1,6 +1,6 @@
-# Docker composition of Sonartype Nexus 3
+# Docker composition of Sonatype Nexus 3
 
-Docker composition for Nexus 3 Repository Manager by Sonartype.
+Docker composition for Nexus 3 Repository Manager by Sonatype.
 
 Video about this project https://youtu.be/6WjwrZknYVk (on Russian language)
 
